@@ -14,6 +14,7 @@ Mi App con Material Design - Coursera
 
 ## styles.xml
 
+```
 <resources>
     <!-- Base application theme. -->
     <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
@@ -23,3 +24,4 @@ Mi App con Material Design - Coursera
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 </resources>
+```
