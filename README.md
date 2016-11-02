@@ -3,7 +3,7 @@ Mi App con Material Design - Coursera
 
 ## colors.xml
 
-`<?xml version="1.0" encoding="utf-8"?> _
+`<?xml version="1.0" encoding="utf-8"?> </br>
 <resources> _
     <color name="colorPrimary">#00BCD4</color> _
     <color name="colorPrimaryDark">#0097A7</color> _
